@@ -1,0 +1,3 @@
+dataset/videos/*
+dataset/dataset.csv
+__pycache__/*
